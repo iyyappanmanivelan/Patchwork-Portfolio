@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Patchwork-Portfolio/static/css/main.1be7c62b.css",
+    "main.js": "/Patchwork-Portfolio/static/js/main.70c6f02a.js",
+    "static/js/453.a6a97343.chunk.js": "/Patchwork-Portfolio/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Patchwork-Portfolio/index.html",
+    "main.1be7c62b.css.map": "/Patchwork-Portfolio/static/css/main.1be7c62b.css.map",
+    "main.70c6f02a.js.map": "/Patchwork-Portfolio/static/js/main.70c6f02a.js.map",
+    "453.a6a97343.chunk.js.map": "/Patchwork-Portfolio/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be7c62b.css",
+    "static/js/main.70c6f02a.js"
+  ]
+}
